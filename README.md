@@ -33,10 +33,3 @@ O sistema utiliza dois DataFrames principais:
 1. **movies.csv**: Este DataFrame contém informações sobre os filmes, incluindo títulos, gêneros e descrições.
 
 2. **credits.csv**: Este DataFrame fornece informações sobre o elenco e a equipe de produção de cada filme.
-
-## Como Usar
-
-Você pode clonar este repositório e executar o código em um ambiente Python. O sistema é capaz de fornecer recomendações de filmes com base nos seus interesses.
-
-**Nota**: Certifique-se de instalar as bibliotecas listadas no arquivo `requirements.txt` antes de executar o código.
-
